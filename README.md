@@ -5,4 +5,4 @@
 # Rafi Ikhwan Purnama
 
 <h3>Software Developer</h3>
-<p>Currently Study in SMKN 1 Cimahi</p>
+<p>Currently Working at PT. Jaya Integrasi Nusantara</p>
